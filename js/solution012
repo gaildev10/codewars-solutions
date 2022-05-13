@@ -29,3 +29,7 @@ function getPlanetName(id){
   
   return name;
 }
+
+
+
+(getPlanetName(2), 'Venus');

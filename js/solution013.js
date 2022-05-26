@@ -4,3 +4,4 @@ function stringToArray(string){
     return newString
   
   }
+  stringToArray()
